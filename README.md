@@ -2,6 +2,6 @@
 
 Repositório do Desafio de projeto.
 
-## Links úteis
+## Links Úteis
 
 [Sintaxe básica Markdrown](https://www.markdownguide.org/)
