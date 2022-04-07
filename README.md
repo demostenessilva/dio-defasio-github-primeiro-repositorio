@@ -4,4 +4,4 @@ Repositório do Desafio de projeto.
 
 ## Links úteis
 
-[Sintaxe básica](https://www.markdownguide.org/)
+[Sintaxe básica Markdrown](https://www.markdownguide.org/)
